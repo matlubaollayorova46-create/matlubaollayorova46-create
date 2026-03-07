@@ -72,6 +72,82 @@
 </p>
 
 ---
+<h1 align="center">👩‍💻 Matluba Ollayorova</h1>
+<h3 align="center">Future Software Developer | IT Enthusiast | Learning Web Technologies</h3>
+
+---
+
+## 💻 About Me
+
+```javascript
+const matluba = {
+  location: "Uzbekistan",
+  currentFocus: "Web Development",
+  learning: ["JavaScript", "React", "Node.js"],
+  goal: "Become a Professional Software Engineer",
+  hobbies: ["Coding", "Learning new tech", "Building projects"]
+}
+```
+
+---
+
+## 🚀 Learning Roadmap
+
+* 🌱 HTML & CSS
+* 🌱 JavaScript
+* 🌱 React
+* 🌱 Node.js
+* 🌱 Databases
+* 🌱 Full Stack Development
+
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,git,github,vscode,mongodb,mysql&perline=6"/>
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=matlubaollayorova46-create&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=matlubaollayorova46-create&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🧠 Currently Learning
+
+* JavaScript Advanced Concepts
+* React Framework
+* Backend Development
+* Git & GitHub Collaboration
+
+---
+
+## ⚡ Developer Quote
+
+> “First, solve the problem. Then, write the code.” – John Johnson
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://github.com/matlubaollayorova46-create">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+</p>
+
+---
+
+⭐ From **matlubaollayorova46-create**
 
 ⭐ From [matlubaollayorova46-create](https://github.com/matllubaollayorova46-create)
 
