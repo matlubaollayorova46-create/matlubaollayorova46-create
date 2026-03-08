@@ -23,11 +23,6 @@ Future Software Developer • IT Enthusiast • Web Learner
 
 ---
 
-# 🛠 Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,python,mongodb,mysql,git,github,vscode&perline=6"/>
 
 </p>
 
@@ -107,6 +102,20 @@ Future Software Developer • IT Enthusiast • Web Learner
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ---
+## 💻 Skills Progress
+
+HTML
+████████████████████████████████████████ 100%
+
+CSS
+████████████████████████████████████ 90%
+
+JavaScript
+████████████████████████████████ 80%
+
+Python
+████████████████████████████ 70%
+
 
 
 
