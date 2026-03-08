@@ -122,6 +122,10 @@ Python
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Matluba;Matilda;Matush;Ollayorova;Matlyuba"/>
 
 </h1>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=2000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Matluba;Matilda;Matush;Ollayorova;Matlyuba" />
+</p>
+
 
 
 
