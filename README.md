@@ -96,6 +96,100 @@ Future Software Developer • IT Enthusiast • Web Learner
 </p>
 
 ---
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:000000,50:00FFAA,100:000000&text=MATLUBA&fontSize=70&fontColor=FFFFFF&animation=twinkling&fontAlignY=38"/>
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Future+Software+Developer;Web+Development+Learner;Frontend+%2B+Backend+Enthusiast;Welcome+to+My+GitHub+Profile" />
+</p>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+---
+
+# 👩‍💻 About Me
+
+🌱 Currently learning **Web Development**
+💻 Interested in **Frontend & Backend Development**
+🚀 Goal: Become a **Professional Software Developer**
+⚡ Fun fact: I love learning new technologies
+
+---
+
+# 🛠 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,python,mongodb,mysql,git,github,vscode,tailwind&perline=6"/>
+</p>
+
+---
+
+# 🚀 Tech Arsenal
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind,nodejs,express,mongodb,py,go,git,github,vscode,docker,kubernetes,aws,mysql,postgres,nginx&perline=10"/>
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=matlubaollayorova46-create&show_icons=true&theme=radical&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matlubaollayorova46-create&layout=compact&theme=radical&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=matlubaollayorova46-create&theme=radical&hide_border=true"/>
+</p>
+
+---
+
+# 📈 Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=matlubaollayorova46-create&theme=react-dark&hide_border=true&area=true"/>
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=matlubaollayorova46-create&theme=matrix&no-frame=true&margin-w=15"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+<a href="https://github.com/matlubaollayorova46-create">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+</p>
+
+---
+
+<h1 align="center">✨ MATLUBA ✨</h1>
+<h3 align="center">Future Software Developer</h3>
+
 
 <h1 align="center">✨ MATLUBA ✨</h1>
 
