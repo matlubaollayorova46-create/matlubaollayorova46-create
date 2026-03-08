@@ -117,19 +117,7 @@ Python
 ████████████████████████████ 70%
 
 
-## 🚀 My Skills
 
-<p align="center">
-
-<img src="https://progress-bar.dev/100/?title=HTML&width=500&color=ff5733">
-
-<img src="https://progress-bar.dev/90/?title=CSS&width=500&color=2965f1">
-
-<img src="https://progress-bar.dev/80/?title=JavaScript&width=500&color=f7df1e">
-
-<img src="https://progress-bar.dev/70/?title=Python&width=500&color=3776ab">
-
-</p>
 
 
 
